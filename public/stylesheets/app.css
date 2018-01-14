@@ -1,0 +1,29 @@
+i.icon {
+    font-size: 1em;
+   padding-left: 0.5em;
+}
+
+.container.main {
+    margin-top: 5.0em;
+}
+
+#delete {
+    display: inline;
+}
+
+.date{
+    float: right;
+    margin-right: 3em;
+}
+.showhead{
+    text-align: center;
+}
+i.heartbeat{
+    padding-right: 1.1em;
+    font-size: 1.2em;
+}
+.git{
+    margin-right: 7px;
+    font-size: 2.4em;
+    margin-top: 10px;
+}
